@@ -487,7 +487,7 @@ const files = [
             sudo: false,
             type: "file",
             content:
-              '学生狗一只，目前大三，坐标成都。<br><br>喜欢电脑，会打代码，懂一点魔法(?)。<br><br>爱好 ACG，一天 24 小时高强度逛 B站。<br><br>大佬开发的<a target="_blank" rel="noopener" href="https://axton.cc">AxtonShell</a>实乃炫技神器！JavaScript 的强大之处就体现在这了。 <br><br>### More details<br>- 会<b>**写**</b>代码，爱捯饬。目前会一点 PHP，Python，C，HTML+CSS+Javascript，Java 以及极小一部分的 Lisp<br>- 但实际上呢，代码不精，封装无力，框架不会，啥新技术也不懂，只晓得面向 Google 编程，是个弱渣<br>- 最喜欢的编辑器是 VIM，VIM 真的 tql，谁用谁知道<br>- 勉强会玩 Linux，曾经买过 VPS 捯饬 SSR，现在老老实实买机场飞机 2333<br>-  GitHub 萌新一只<br>- 目前在补数学和英语的坑，2021 年对我而言也是很重要的一年，相位猛冲！<br>',
+              '学生狗一只，目前大三，坐标成都。<br><br>喜欢电脑，会打代码，懂一点魔法(?)。<br><br>爱好 ACG，一天 24 小时高强度逛 B站。<br><br>大佬开发的<a target="_blank" rel="noopener" href="https://axton.cc">AxtonShell</a>实乃炫技神器！我被惊叹的五体投地。 <br><br>### More details<br>- 会<b>**写**</b>代码，爱捯饬。目前会一点 Java, C, Python, PHP, HTML+CSS+Javascript 以及极少一部分的 Lisp<br>- 但实际上呢，代码不精，封装无力，框架不会，啥新技术也不懂，只晓得面向 Google 编程，是个弱渣Orz<br>- 最喜欢的编辑器是 VIM，VIM 真的 tql，谁用谁知道<br>- 勉强会玩 Linux，曾经买过 VPS 捯饬 SSR，现在老老实实买机场飞机 2333<br>-  GitHub 萌新一只<br>- 目前在补数学和英语的坑，2021 年对我而言也是很重要的一年，相位猛冲！<br>',
           },
           {
             name: "projects",
@@ -834,7 +834,7 @@ function runCommand(command) {
       content:
         '<br><div><pre class="sflogo">' +
         logo +
-        '</pre><div class="about info">&nbsp;<br><span class="sf">usr@BlackFlame33</span><br>OS: <span class="sf">LikourinOs</span><br>Kernel: <span class="sf">7.10.0-693.2.2.el7.x86_64</span><br>Shell: <span class="sf">LikourinShell 2.0.0</span><br>Uptime: <span class="sf">' +
+        '</pre><div class="about info">&nbsp;<br><span class="sf">usr@BlackFlame33</span><br>OS: <span class="sf">LikourinOs</span><br>Kernel: <span class="sf">7.10.0-693.2.2.el7.x86_64</span><br>Shell: <span class="sf">LikourinShell 1.0.0</span><br>Uptime: <span class="sf">' +
         day +
         "d " +
         hour +
